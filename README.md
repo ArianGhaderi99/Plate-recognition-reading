@@ -362,4 +362,3 @@ If you found this project useful, consider giving it a star ⭐ on GitHub.
 Developed as a Deep Learning and Computer Vision project using YOLOv8, EasyOCR, OpenCV, and PyTorch.
 
 ---
-
