@@ -363,6 +363,3 @@ Developed as a Deep Learning and Computer Vision project using YOLOv8, EasyOCR, 
 
 ---
 
-<p align="center">
-  Made with ❤️ using Python, YOLOv8 and Deep Learning
-</p>
