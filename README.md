@@ -1,5 +1,6 @@
 # 🚘 PlateVision
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-green?style=for-the-badge">
